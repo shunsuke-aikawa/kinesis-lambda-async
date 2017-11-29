@@ -1,0 +1,18 @@
+{
+  "name": "test_action",
+  "description": "tebasaki lambda",
+  "region": "ap-northeast-1",
+  "handler": "run.run",
+  "role": "arn:aws:iam::905823143994:role/tebasaki_push_action",
+  "timeout": 100,
+  "memory": 128,
+  "requirements": [],
+  "vpc": {
+    "subnets": [
+      "subnet-8e2165d6"
+    ],
+    "security_groups": [
+      "sg-0c120c6b"
+    ]
+  }
+}

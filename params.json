@@ -1,0 +1,53 @@
+{
+    "env": "local",
+    "Records": [
+        {
+            "eventVersion": "1.0",
+            "eventID": "shardId-000000000003:49569906140632577102029770134981550411886819023599435826",
+            "kinesis": {
+                "approximateArrivalTimestamp": 1487840557.987,
+                "partitionKey": "D3F371F0-D72A-4EFF-9015-88D660562D1A",
+                "data": "ewogICJsb2dfdHlwZSI6IDQsCiAgImFjaWQiOiAiNzQ5OTk3MTMxNDYiCn0=",
+                "kinesisSchemaVersion": "1.0",
+                "sequenceNumber": "49569906140632577102029770134981550411886819023599435826"
+            },
+            "invokeIdentityArn": "arn:aws:iam::905823143994:role/tebasaki_push_action",
+            "eventName": "aws:kinesis:record",
+            "eventSourceARN": "arn:aws:kinesis:ap-northeast-1:905823143994:stream/ac2_dev",
+            "eventSource": "aws:kinesis",
+            "awsRegion": "ap-northeast-1"
+        },
+        {
+            "eventVersion": "1.0",
+            "eventID": "shardId-000000000003:49569906140632577102029770134981550411886819023599435826",
+            "kinesis": {
+                "approximateArrivalTimestamp": 1487840557.987,
+                "partitionKey": "D3F371F0-D72A-4EFF-9015-88D660562D1A",
+                "data": "ewogICJsb2dfdHlwZSI6IDQsCiAgImFjaWQiOiAiNzQ5OTk3MTMxNDYiCn0=",
+                "kinesisSchemaVersion": "1.0",
+                "sequenceNumber": "49569906140632577102029770134981550411886819023599435826"
+            },
+            "invokeIdentityArn": "arn:aws:iam::905823143994:role/tebasaki_push_action",
+            "eventName": "aws:kinesis:record",
+            "eventSourceARN": "arn:aws:kinesis:ap-northeast-1:905823143994:stream/ac2_dev",
+            "eventSource": "aws:kinesis",
+            "awsRegion": "ap-northeast-1"
+        },
+        {
+            "eventVersion": "1.0",
+            "eventID": "shardId-000000000003:49569906140632577102029770134981550411886819023599435826",
+            "kinesis": {
+                "approximateArrivalTimestamp": 1487840557.987,
+                "partitionKey": "D3F371F0-D72A-4EFF-9015-88D660562D1A",
+                "data": "ewogICJsb2dfdHlwZSI6IDQsCiAgImFjaWQiOiAiNzQ5OTk3MTMxNDYiCn0=",
+                "kinesisSchemaVersion": "1.0",
+                "sequenceNumber": "49569906140632577102029770134981550411886819023599435826"
+            },
+            "invokeIdentityArn": "arn:aws:iam::905823143994:role/tebasaki_push_action",
+            "eventName": "aws:kinesis:record",
+            "eventSourceARN": "arn:aws:kinesis:ap-northeast-1:905823143994:stream/ac2_dev",
+            "eventSource": "aws:kinesis",
+            "awsRegion": "ap-northeast-1"
+        }
+    ]
+}
